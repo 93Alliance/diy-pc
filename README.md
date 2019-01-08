@@ -24,7 +24,7 @@
 
 [产品列表]()
 
-[Link to a file](cpu/readme)
+[Link to a file](cpu/intel/readme)
 
 ### AMD
 
