@@ -20,16 +20,30 @@
 
 <img src="./resource/logo/intel.png " width="50%" height="50%">
 
+[Intel历史]()
+
+[产品列表]()
+
+[Link to a file](cpu/readme)
+
 ### AMD
 
 <img src="./resource/logo/amd.png" width="40%" height="40%">
 
-[链接]()
+[AMD历史]()
+
+[产品列表]()
 
 ## 显卡
 
-[链接]()
+### 什么是显卡？
+
+### NVIDIA
+
+### ATI
 
 ## 主板
+
+### 什么是主板？
 
 [链接]()
