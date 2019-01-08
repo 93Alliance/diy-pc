@@ -22,9 +22,7 @@
 
 [Intel历史]()
 
-[产品列表]()
-
-[Link to a file](cpu/intel)
+[英特尔CPU产品列表](cpu/intel)
 
 ### AMD
 
