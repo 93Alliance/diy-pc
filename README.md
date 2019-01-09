@@ -1,5 +1,3 @@
-[TOC]
-
 # DIY-PC
 
 此项目用于DIY主机时，查询参数使用，欢迎大家提意见。别忘记 **star**。
@@ -58,7 +56,7 @@
 
 ### Intel CPU 主板
 
-[Intel CPU配套主板](cpu/amd)
+[Intel CPU配套主板](mainboard/intel)
 
 ### AMD CPU 主板
 
