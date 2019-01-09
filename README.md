@@ -40,9 +40,11 @@
 
 ### NVIDIA
 
+<img src="./resource/logo/nvidia.jpg" width="60%" height="60%">
+
 [英伟达历史]()
 
-[NVIDIA 显卡产品列表](cpu/amd)
+[NVIDIA 显卡产品列表](gpu/nvidia)
 
 ### ATI
 
