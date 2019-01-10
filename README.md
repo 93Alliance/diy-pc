@@ -60,4 +60,4 @@
 
 ### AMD CPU 主板
 
-[AMD CPU配套主板](cpu/amd)
+[AMD CPU配套主板](mainboard/amd)
