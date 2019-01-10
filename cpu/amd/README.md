@@ -17,7 +17,7 @@
 | **2920X** | 12核24线程 | 3.5/4.3GHz|  32MB | 180W | 2TB | 64 | ¥4699 | X399 | [链接](detail/threadripper/2920x)
 | **1950X** | 16核32线程 | 3.4/4.0GHz|  32MB | 180W | 2TB | 60 | ¥5999 | X399 | [链接](detail/threadripper/1950x)
 | **1920X** | 12核24线程 | 3.5/4.0GHz|  32MB | 180W | 2TB | 60 | ¥4499 | X399| [链接](detail/threadripper/1920x)
-| **1900X** | 8核16线程 | 3.8/4.0GHz|  16MB | 180W | 2TB | 60 | ¥3999 | X399| [链接](detail/threadripper/1900x)
+| **1900X** | 8核16线程 | 3.8/4.0GHz|  16MB | 180W | 2TB | 60 | ¥3999 | [X399](/mainboard/amd/detail/x399)| [链接](detail/threadripper/1900x)
 
 ## 锐龙 Ryzen 7
 
