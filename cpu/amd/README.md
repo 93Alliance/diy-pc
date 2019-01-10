@@ -11,12 +11,12 @@
 
 | 型号 | 核心/线程 | 基础/睿频频率  |  L3缓存| 功率 | 内存  | PCIE | 价格 |  主板 | 详细
 | :------: | :------: | :------: |  :------: | :------: | :------: | :------: | :------: | :------: | :------: |
-| **2990WX** | 32核64线程 | 3.0/4.2GHz|  64MB | 250W | 2TB | 66 | ¥13599 |X399 | [链接](detail/threadripper/2990wx)
-| **2970WX** | 24核48线程 | 3.0/4.2GHz|  64MB | 250W | 2TB | 64 | ¥9499 |X399 | [链接](detail/threadripper/2970wx)
-| **2950X** | 16核32线程 | 3.5/4.4GHz|  32MB | 180W | 2TB | 64 | ¥6999 |X399 | [链接](detail/threadripper/2950x)
-| **2920X** | 12核24线程 | 3.5/4.3GHz|  32MB | 180W | 2TB | 64 | ¥4699 | X399 | [链接](detail/threadripper/2920x)
-| **1950X** | 16核32线程 | 3.4/4.0GHz|  32MB | 180W | 2TB | 60 | ¥5999 | X399 | [链接](detail/threadripper/1950x)
-| **1920X** | 12核24线程 | 3.5/4.0GHz|  32MB | 180W | 2TB | 60 | ¥4499 | X399| [链接](detail/threadripper/1920x)
+| **2990WX** | 32核64线程 | 3.0/4.2GHz|  64MB | 250W | 2TB | 66 | ¥13599 |[X399](/mainboard/amd/detail/x399) | [链接](detail/threadripper/2990wx)
+| **2970WX** | 24核48线程 | 3.0/4.2GHz|  64MB | 250W | 2TB | 64 | ¥9499 |[X399](/mainboard/amd/detail/x399) | [链接](detail/threadripper/2970wx)
+| **2950X** | 16核32线程 | 3.5/4.4GHz|  32MB | 180W | 2TB | 64 | ¥6999 |[X399](/mainboard/amd/detail/x399) | [链接](detail/threadripper/2950x)
+| **2920X** | 12核24线程 | 3.5/4.3GHz|  32MB | 180W | 2TB | 64 | ¥4699 | [X399](/mainboard/amd/detail/x399) | [链接](detail/threadripper/2920x)
+| **1950X** | 16核32线程 | 3.4/4.0GHz|  32MB | 180W | 2TB | 60 | ¥5999 | [X399](/mainboard/amd/detail/x399) | [链接](detail/threadripper/1950x)
+| **1920X** | 12核24线程 | 3.5/4.0GHz|  32MB | 180W | 2TB | 60 | ¥4499 | [X399](/mainboard/amd/detail/x399)| [链接](detail/threadripper/1920x)
 | **1900X** | 8核16线程 | 3.8/4.0GHz|  16MB | 180W | 2TB | 60 | ¥3999 | [X399](/mainboard/amd/detail/x399)| [链接](detail/threadripper/1900x)
 
 ## 锐龙 Ryzen 7
