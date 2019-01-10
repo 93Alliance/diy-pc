@@ -1,4 +1,4 @@
-[返回](../../../)  [主页](../../../../../)
+[返回](../../../)  [主页](https://github.com/93Alliance/diy-pc/)
 
 # Threadripper 1950X
 
