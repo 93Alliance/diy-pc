@@ -8,6 +8,7 @@
 |技嘉| Auros X399 Gaming 7  |
 |微星| X399 Gaming Pro Carbon AC  |
 |华擎| Fatal1ty X399 Professional Gaming  |
+|华擎|X399 Phantom Gaming 6|
 |华擎| X399 Taichi  |
 
 ## 介绍
