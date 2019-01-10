@@ -1,3 +1,5 @@
+[返回](../)  [主页](https://github.com/93Alliance/diy-pc/)
+
 # i5 7400
 
 
