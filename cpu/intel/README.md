@@ -1,4 +1,4 @@
-[返回主页](/diy-pc)
+[返回主页](https://github.com/93Alliance/diy-pc/)
 
 # Intel 所有CPU产品目录
 
